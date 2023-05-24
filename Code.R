@@ -38,4 +38,4 @@ library(ggplot2)
 layer1 <- geom_vline(xintercept=c(39709170))
 cnFreq(cnData, genome="hg19", plotChr="chr17", plotLayer=layer1)
 
-
+#https://genviz.org/module-03-genvisr/0003/05/01/cnFreq_GenVisR/
